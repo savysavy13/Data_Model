@@ -17,4 +17,9 @@ able to handle imbalanced data. To futher improve the accuracy of our random for
 deploy XGBoost, which is a boosting algorithm that enhances the random forest classifier by
 combining decision trees iteratively to improve model accuracy and generalization.
 
+Please see the data_model.ipynb file for the jupyter notebook
+the output.pdf file has the complete outputs
+the hr.csv file is the original dataset used for this analysis
+the png files are the data visualizations created using seaborn
+
 -Sameer
